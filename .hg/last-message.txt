@@ -1,0 +1,1 @@
+capistrano and unicorn config
